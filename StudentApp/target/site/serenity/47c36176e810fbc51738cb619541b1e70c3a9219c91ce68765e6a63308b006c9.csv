@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different requests on the student application","Check if the student application can be accessed by users","SUCCESS","2020-04-20T15:55:43.070+05:30","0.0","9.2"
+"Testing different requests on the student application","Create a new student & verify if the student is added","SUCCESS","2020-04-20T15:55:54.908+05:30","0.0","2.77"
